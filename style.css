@@ -1,0 +1,8 @@
+body {
+    font-family: monospace;
+    font-size: 2rem;
+    background-color: rgb(30, 32, 34);
+    text-align: center;
+    color: #ffffff;
+    overflow: hidden;
+}
