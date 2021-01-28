@@ -4,7 +4,7 @@
   "description": "electron app",
   "main": "index.js",
   "dependencies": {
-    "electron": "^9.1.1"
+    "electron": "^9.4.0"
   },
   "devDependencies": {},
   "scripts": {
